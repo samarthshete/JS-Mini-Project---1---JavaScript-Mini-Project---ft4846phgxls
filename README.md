@@ -6,9 +6,9 @@
   <br />
   
   
-  <h2 align="center">ApnaGhar - Real estate website</h2>
+  <h2 align="center">Nykaa Fashion </h2>
 
-  ApnaGhar is fully responsive Real estate website
+  Nykaa Fashion CLone
   <a href=" https://nykaa-fashion-clone.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
