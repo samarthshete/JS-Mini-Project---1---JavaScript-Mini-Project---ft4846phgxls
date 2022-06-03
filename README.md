@@ -9,7 +9,7 @@
   <h2 align="center">ApnaGhar - Real estate website</h2>
 
   ApnaGhar is fully responsive Real estate website
-  <a href="https://codewithsadee.github.io/homeverse/"><strong>➥ Live Demo</strong></a>
+  <a href=" https://nykaa-fashion-clone.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -67,7 +67,7 @@ It is not just about coding, it is about problem-solving. I have always believed
 
 - **Home Page**
 ---
-![](./images/screenshots/screenshot.png)
+![](./images/screenshot/screenshot.png)
  
 
  
@@ -75,42 +75,42 @@ It is not just about coding, it is about problem-solving. I have always believed
 ---
 - **women page**
 ---
-![](./images/screenshots/women.png)
+![](./images/screenshot/women.png)
 
 ---
 
 - **Product**
 ---
-![](./images/screenshots/product.png)
+![](./images/screenshot/product.png)
 
 ---
 
 - **Bag**
 ---
-![](./images/screenshots/cart.png)
+![](./images/screenshot/cart.png)
 
 ---
 
 
 - **address**
 ---
-![](./images/screenshots/address.png)
+![](./images/screenshot/address.png)
 
 
 - **payment**
 ---
-![](./images/screenshots/payment.png)
+![](./images/screenshot/payment.png)
 
 ---
 - **confirm**
 ---
-![](./images/screenshots/confirm.png)
+![](./images/screenshot/confirm.png)
 
 ---
 
 ### Links
  
-- Live Site URL: [Naykaa Fashion](https://huddlelandingpage-newtonschool.netlify.app/)
+- Live Site URL: [Naykaa Fashion]( https://nykaa-fashion-clone.netlify.app/)
 
 ---
  
