@@ -1,0 +1,244 @@
+#dino-container {
+    width: 90%;
+    height: 360px;
+    position: relative;
+    overflow: hidden;
+    margin: auto;
+  
+    margin-bottom: 30px;
+  }
+  
+  #dino-slider {
+    width: 1000%;
+    height: 100%;
+    list-style: none;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    transition: all 0.75s ease;
+  }
+  
+  #dino-container .slideBox {
+    height: 100%;
+    float: left;
+  }
+  #dino-container .slideBox p {
+    line-height: 20px;
+    height: 24px;
+    color: #000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  #dino-container .slideBox a {
+    text-decoration: none;
+  }
+  
+  #dino-slider > div:nth-child(2) {
+    margin-left: 25px;
+  }
+  
+  #dino-slider > div:nth-child(3) {
+    margin-left: 25px;
+  }
+  
+  #dino-slider > div:nth-child(4) {
+    margin-left: 25px;
+  }
+  
+  #dino-slider > div:nth-child(5) {
+    margin-left: 25px;
+  }
+  
+  #dino-slider > div:nth-child(6) {
+    margin-left: 25px;
+  }
+  
+  #dino-slider > div:nth-child(7) {
+    margin-left: 25px;
+  }
+  
+  #dino-slider > div:nth-child(8) {
+    margin-left: 25px;
+  }
+  
+  #dino-container .btn,
+  #dino-container2 .btn {
+    position: absolute;
+    top: 40%;
+    color: rgb(245, 245, 245);
+    text-decoration: none;
+    padding-left: 5px;
+    background: none;
+    border: none;
+  }
+  
+  #dino-container .material-icons,
+  #dino-container2 .material-icons {
+    font-size: 30px;
+  }
+  
+  #next {
+    right: 0;
+  }
+  
+  #prev:hover,
+  #next:hover {
+    color: rgb(192, 192, 192);
+  }
+/* (dino) Coveted Carryalls section ------------------ */
+.imgBanner {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  .imgBanner img {
+    width: 100%;
+  }
+    
+/*watch */
+
+#watchBanner {
+    width: 100%;
+    background-color: rgb(231, 244, 253);
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  #watchBanner > img:nth-child(2):hover {
+    box-shadow: rgb(0 0 0 / 30%) 0px 2px 12px 0px;
+  }
+  #mainwatch {
+    
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(231, 244, 253);
+    margin: auto;
+     
+    width:1190px;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+   
+    font-family: helvetica;
+  }
+  .watch-section{
+    background-color: rgb(231, 244, 253);
+  }
+  #sliderwatch {
+    display: flex;
+  
+    height: 100%;
+    list-style: none;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    transition: all 0.75s ease;
+  }
+  #sliderwatch > a {
+    width: 23.5%;
+    margin-left: 25px;
+  }
+  #sliderwatch > a:nth-child(1) {
+    margin-left: 0px;
+  }
+  .slideBoxwatch {
+    height: 100%;
+    float: left;
+  }
+  #mainwatch .btn {
+    position: absolute;
+    top: 40%;
+    color: rgb(245, 245, 245);
+    text-decoration: none;
+    padding-left: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  #mainwatch .material-icons {
+    font-size: 30px;
+  }
+  #nextwatch {
+    right: 0;
+  }
+  #prevwatch:hover,
+  #nextwatch:hover {
+    color: rgb(192, 192, 192);
+  }
+  .brand {
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+  }
+  .off {
+    font-size: 15px;
+    color: rgb(119, 118, 118);
+  }
+
+/* new on naykaa */
+ 
+#S-Container {
+    width: 1210px;
+    height: 270px;
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    background-color: white;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  
+  .S-Slider {
+    width: 1000%;
+    height: 100%;
+    list-style: none;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    transition: all 0.75s ease;
+  }
+  
+  #S-Container .slide {
+    height: 100%;
+    float: left;
+  }
+  
+  .S-Slider > div {
+    margin-left: 25px;
+  }
+  
+  .S-Slider > div:nth-child(1) {
+    margin-left: 0;
+  }
+  
+  #S-Container .btn {
+    position: absolute;
+    top: 40%;
+    color: rgb(245, 245, 245);
+    text-decoration: none;
+    padding-left: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #S-Container .material-icons {
+    font-size: 30px;
+  }
+  
+  #nextsf {
+    right: 0;
+  }
+  
+  #bannerS {
+    margin-top: 15px;
+    height: 514px;
+    max-width: 1200px;
+  
+    display: block;
+    margin: 0 auto;
+  }
+  
