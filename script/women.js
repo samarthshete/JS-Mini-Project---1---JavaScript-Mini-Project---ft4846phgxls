@@ -1367,7 +1367,7 @@ function showData(data) {
     function clickedProduct(event) {
       event.preventDefault();
       localStorage.setItem("clickedProduct", JSON.stringify(item));
-      window.open("product.html", "_blank");
+      window.open("product.html", "_self");
     }
 
     var productDiv = document.createElement("div");
