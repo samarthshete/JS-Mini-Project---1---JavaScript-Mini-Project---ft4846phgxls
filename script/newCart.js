@@ -212,7 +212,7 @@ function cartCalculation() {
 
     // Proceed to buy
     document.getElementById("buyBtn").addEventListener("click", function () {
-        window.open("address.html", "_blank");
+        window.open("address.html", "_self");
     })
 
 }
